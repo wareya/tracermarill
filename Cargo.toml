@@ -1,0 +1,11 @@
+[package]
+name = "tracermarill"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+glam = "0.33.2"
+pixels = "0.17.2"
+rayon = "1.12.0"
+winit = "0.30.13"
+winit_input_helper = "0.17.0"
